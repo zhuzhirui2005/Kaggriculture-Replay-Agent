@@ -1,0 +1,16 @@
+[build-system]
+requires = ["setuptools>=69"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "kaggriculture-replay-agent"
+version = "1.0.0"
+description = "A recurrent, coordinated behavior-cloning policy for Kaggriculture"
+requires-python = ">=3.11"
+dependencies = ["numpy>=2,<3", "torch>=2.6,<3"]
+
+[project.optional-dependencies]
+environment = ["kaggle-environments==1.32.7"]
+
+[tool.setuptools.packages.find]
+include = ["farm_policy*", "tools*"]

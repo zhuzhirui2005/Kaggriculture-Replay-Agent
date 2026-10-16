@@ -1,0 +1,8 @@
+Use case: stylized-concept
+Asset type: a polished, wide GitHub README hero banner for the open-source project "Kaggriculture Replay Agent".
+Create a refined editorial illustration combining a miniature farming strategy game with neural-network learning. Use a panoramic 3:1 composition, approximately 2400 by 800 pixels, not a square poster.
+Scene: a compact isometric, tile-based farm with golden wheat, leafy crop rows, a strawberry patch, small fenced sheep and cow pastures, and a few tiny farm workers carrying produce along paths. A sparse, elegant network of fine connecting lines and small nodes integrates with the farm and suggests coordinated decisions. The farm is the visual focus; the neural motif remains subtle.
+Style: premium, carefully art-directed 3D illustration with softly matte materials, crisp geometry, warm natural light and restrained detail. Natural agricultural greens and harvest gold against a deep forest-green backdrop; high contrast, balanced negative space, sophisticated rather than childish.
+Layout: the left portion is quiet negative space for a large, beautifully typeset project title; the isometric farm occupies the right portion, with the two balanced as one composition. Keep all important elements comfortably inside the frame and readable at GitHub README width.
+Text, verbatim and only these two lines: "Kaggriculture" and "Replay Agent". Render the first line large and the second smaller in clean, confident off-white sans-serif typography. Spell Kaggriculture exactly.
+Avoid: extra text, slogans, badges, rankings, watermarks, logos, screenshots, dashboards, charts, purple neon, excessive glowing circuitry, tiny illegible labels, excessive decoration. Opaque background.
