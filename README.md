@@ -1,8 +1,11 @@
 ![Kaggriculture Replay Agent — an isometric farm with coordinated workers and neural-network connections](assets/readme-banner.png)
 
-# Kaggriculture Replay Agent
-
-English | [简体中文](README.zh-CN.md)
+<p align="center">
+  English | <a href="README.zh-CN.md">简体中文</a>
+</p>
+<p align="center">
+  <a href="https://www.kaggle.com/competitions/kaggriculture">Contest Overview</a> | <a href="https://www.kaggle.com/competitions/kaggriculture/submissions?submissionId=56720708">Game History</a> | <a href="https://www.kaggle.com/competitions/kaggriculture/writeups/51st-place-solution-replay-bc">Solution Writeup</a>
+</p>
 
 A PyTorch agent for Kaggriculture that learns worker commands and market decisions from game replays using behavior cloning. The repository includes a pretrained 22.4-million-parameter model, CPU inference, replay preprocessing, and single-device or distributed training.
 

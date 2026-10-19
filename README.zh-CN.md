@@ -1,8 +1,11 @@
 ![Kaggriculture 回放学习智能体：等距农场、协作工人与神经网络连接](assets/readme-banner.png)
 
-# Kaggriculture 回放学习智能体
-
-[English](README.md) | 简体中文
+<p align="center">
+  <a href="README.md">English</a> | 简体中文
+</p>
+<p align="center">
+  <a href="https://www.kaggle.com/competitions/kaggriculture">比赛概览</a> | <a href="https://www.kaggle.com/competitions/kaggriculture/submissions?submissionId=56720708">对战记录</a> | <a href="https://www.kaggle.com/competitions/kaggriculture/writeups/51st-place-solution-replay-bc">方案详解</a>
+</p>
 
 这是一个基于 PyTorch 的 Kaggriculture 智能体，通过行为克隆从对局回放中学习工人指令和市场决策。仓库提供约 2240 万参数的预训练模型、CPU 推理、回放预处理，以及单设备和分布式训练代码。
 
